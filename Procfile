@@ -1,0 +1,1 @@
+web: java -jar target/smart-vegetable-garden-0.0.1-SNAPSHOT.jar
